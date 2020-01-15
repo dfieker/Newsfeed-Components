@@ -33,3 +33,61 @@ let menuItems = [
   Step 6: add the menu component to the DOM.
   
 */
+
+
+// Step 1: Write a function that will create a menu component as seen below:
+
+//   <div class="menu">
+//     <ul>
+//       {each menu item as a list item}
+//     </ul>
+//   </div>
+
+//   The function takes an array as its only argument.
+
+let menuItems = [
+  'Students',
+  'Faculty',
+  "What's New",
+  'Tech Trends',
+  'Music',
+  'Log Out'
+];
+
+function createMenu (menuItems) {
+
+  const menu = document.createElement('div');
+  const unorderedList = document.createElement('ul');
+  const students = document.createElement('li');
+  const faculty = document.createElement('li');
+  const whatsNew = document.createElement('li');
+  const techTrends = documnet.createElement('li');
+  const music = document.createElement('li');
+  const logOut = document.createElement('li');
+
+  menu.append(unorderedList);
+  unorderedList.append(students);
+  unorderedList.append(faculty);
+  unorderedList.append(whatsNew);
+  unorderedList.append(techTrends);
+  unorderedList.append(music);
+  unorderedList.append(logOut);
+
+  menu.classList.add('menu');
+
+  menu.textContent = menuItems;
+
+  menuItems.forEach(element => {
+    unorderedList.append(createMenu(element.students, element.faculty, element.whatsNew, element.techTrends, element.music, element.logOut));
+    console.log(element);    
+  });
+
+  return menu;
+
+
+
+}
+
+document.querySelector('.menu-button');
+
+// Step 3: Using a DOM selector, select the menu button (the element with a class of 'menu-button') currently on the DOM.

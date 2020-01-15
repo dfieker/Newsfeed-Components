@@ -85,6 +85,34 @@ const data = [
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
           Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+  },
+  {
+    title: 'Captain America: Winter Soldier -- Greatest Action Movie of All Time?',
+    date: 'January 15, 2020',
+    firstParagraph: 'Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.',
+    secondParagraph: 'Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.',
+    thirdParagraph: 'Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.Blah Blah Blah, Honor Honor Honor.'
+  },
+  {
+    title: 'Super Bowl 2020 -- Who Will Win?',
+    date: 'January 15, 2020',
+    firstParagraph: 'Pass, pass, run, run...touchdown!!! Pass, pass, run, run...touchdown!!! Pass, pass, run, run...touchdown!!! Pass, pass, run, run...touchdown!!! Pass, pass, run, run...touchdown!!! Pass, pass, run, run...touchdown!!! Pass, pass, run, run...touchdown!!! Pass, pass, run, run...touchdown!!!',
+    secondParagraph: 'Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!',
+    thirdParagraph: 'Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!Pass, pass, run, run...touchdown!!!'
+  },
+  {
+    title: 'Star Wars -- Which Episode was the Best?',
+    date: 'A long time ago',
+    firstParagraph: 'Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...',
+    secondParagraph: 'Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...',
+    thirdParagraph: 'Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...Skywalker, Vader, Han...'
+  },
+  {
+    title: 'Lord of the Rings -- Greatest of All Time?',
+    date: 'Many ages ago',
+    firstParagraph: 'Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!',
+    secondParagraph: 'Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!',
+    thirdParagraph: 'Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!Frodo, Sam, Gandalf, the Shire, the ring, Sauron, Victory!!'
   }
 ];
 
@@ -112,3 +140,65 @@ const data = [
   Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new article.
 
 */
+
+{/* <div class="article">
+    <h2>{title of the article}</h2>
+    <p class="date">{date of the article}</p>
+
+    {three separate paragraph elements}
+
+    <span class='expandButton'></span>
+  </div> */}
+
+  function createArticle (title, date, firstParagraph, secondParagraph, thirdParagraph) {
+
+    const article = document.createElement('div');
+    const articleTitle = document.createElement('h2');
+    const articleDate = document.createElement('p');
+    const articleParagraph1 = document.createElement('p');
+    const articleParagraph2 = document.createElement('p');
+    const articleParagraph3 = document.createElement('p');
+    const articleExpandbutton = document.createElement('span');
+
+    article.append(articleTitle);
+    article.append(articleDate);
+    article.append(articleParagraph1);
+    article.append(articleParagraph2);
+    article.append(articleParagraph3);
+    article.append(articleExpandbutton);
+
+    article.classList.add('article');
+    articleDate.classList.add('date');
+    articleExpandbutton.classList.add('expandButton');
+
+    articleTitle.textContent = title;
+    articleDate.textContent = date;
+    articleParagraph1.textContent = firstParagraph;
+    articleParagraph2.textContent = secondParagraph;
+    articleParagraph3.textContent = thirdParagraph;
+
+
+
+
+//Step 2: Add an event listener to the expandButton span. This event listener should toggle the class 'article-open' on the 'article' div.
+
+    articleExpandbutton.addEventListener('click', (event) => {
+      console.log('button clicked', event.target);
+      article.classList.toggle('article-open');
+    });
+
+
+
+    return article;
+
+  }
+
+  // Step 4: Map over the data, creating a component for each oject and add each component to the DOM as children of the 'articles' div.
+const articles = document.querySelector('.articles');
+
+  data.map(currentValue => {
+    articles.append(createArticle(currentValue.title, currentValue.date, currentValue.firstParagraph, currentValue.secondParagraph, currentValue.thirdParagraph));
+    console.log(currentValue);
+  });
+
+  // Step 5: Add a new article to the array. Make sure it is in the same format as the others. Refresh the page to see the new article.

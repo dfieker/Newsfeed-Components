@@ -176,7 +176,7 @@ const data = [
     articleParagraph1.textContent = firstParagraph;
     articleParagraph2.textContent = secondParagraph;
     articleParagraph3.textContent = thirdParagraph;
-
+    articleExpandbutton.textContent = 'Click';
 
 
 
